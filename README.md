@@ -1,4 +1,3 @@
-# OhSnap
 <h1 align ="center"> Oh Snap </h1>
 
 <h2 align="center">built with  &nbsp;&nbsp;
