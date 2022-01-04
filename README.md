@@ -20,7 +20,7 @@ This project is,  a single-page application called Oh Snap! that uses React stat
 
   ## Preview
   
-  ![image](https://media0.giphy.com/media/lNY0a9aJgFcCaDn1nw/giphy.gif?cid=ecf05e47psgv7yleo14azmxgq6al2ofi7e84ze6604v6z3qo&rid=giphy.gif&ct=g)
+ ![image](https://user-images.githubusercontent.com/86173119/148133375-0f78dce9-d026-4d0a-b141-de702d3b91f9.png)
 
 
   ## Links
